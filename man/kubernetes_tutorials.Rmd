@@ -5,14 +5,22 @@ date: "11/05/2020"
 output: html_document
 ---
 
-Here are some other tutorials I found which might be useful.
+Here are some other tutorials I found which might be useful.  
 
-To create kubernetes deployments out of Docker containers
+To put a Docker container onto AWS using AWS Fargate  
+https://console.aws.amazon.com/ecs/home?region=us-east-1#/firstRun
+
+
+
+
+Alternatively, you can use Kubernetes (which is much more expensive). 
+Here are some tutorials for that.  
+
+To create kubernetes deployments out of Docker containers  
 https://docs.docker.com/get-started/kube-deploy/
 
-To create Docker Swarm deployments out of docker containers
+To create Docker Swarm deployments out of docker containers  
 https://docs.docker.com/get-started/swarm-deploy/
 
-To deploy RShiny on Kubernetes from scratch:
+To deploy RShiny on Kubernetes from scratch:  
 https://www.deployrshinyonaws.com/deploy-rshiny-with-kubernetes-using-aws-eks-and-terraform/
-
